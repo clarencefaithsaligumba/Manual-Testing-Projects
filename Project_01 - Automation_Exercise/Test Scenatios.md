@@ -1,4 +1,3 @@
-|--------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|----------|
 | Project Name | Automation Exercise                  |                                                                                                                 |          |
 |--------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|----------|
 | Prepared by  | Clarence Faith Saligumba             |                                                                                                                 |          |
@@ -17,4 +16,3 @@
 | TS_007       |             Shopping Cart            | As a   user, I want to add product to my cart so that i can purchase them later                                 |  Medium  |
 | TS_008       | Product Search & Category Management | As a   user, I want to search for products by name so that i can find exactly what i   am looking for           |  Medium  |
 | TS_009       | Product Search & Category Management | As a   user, I want to sort the product by brands and category so that i can find   exactly product that i want |  Medium  |
-|--------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|----------|
