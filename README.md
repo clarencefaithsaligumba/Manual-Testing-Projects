@@ -34,13 +34,6 @@ A comprehensive collection of manual testing documentation, bug reports, and tes
 
 ---
 
-## 🐛 Sample Bug Reports
 
-| Bug ID | Issue Description | Severity | Status |
-| :--- | :--- | :--- | :--- |
-| **AT-001** | No error message when user sets a returning date earlier than departing date | High | Open |
-| **AE-015** | Misaligned Product Grid Layout affecting user experience and visibility | Medium | Resolved |
-
----
 
 
